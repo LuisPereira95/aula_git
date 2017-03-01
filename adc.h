@@ -15,6 +15,7 @@ class CAdc
 		float mf_batteryLevel;
 
 		int16_t swap(int16_t value);
+		blabla bla
 
 	public:
 		CAdc();
