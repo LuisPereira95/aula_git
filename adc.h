@@ -13,7 +13,7 @@ class CAdc
 		lixo=5 !
 		float mf_temperature;
 		float mf_batteryLevel;
-
+regef
 		int16_t swap(int16_t value);
 		blabla blan2
 
