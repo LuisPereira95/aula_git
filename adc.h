@@ -8,7 +8,6 @@ class CAdc
 		int8_t mui_adcHandler;
 		int8_t mui_i2cAddress;
 		//int8_t mui_bitShift;
-		jgnjfdhgbjdhfj
 
 		float mf_tmp36voltage;
 		float mf_temperature;
