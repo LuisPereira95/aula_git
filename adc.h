@@ -10,7 +10,7 @@ class CAdc
 		//int8_t mui_bitShift;
 
 		float mf_tmp36voltage;
-		lixo !
+		lixo=5 !
 		float mf_temperature;
 		float mf_batteryLevel;
 
